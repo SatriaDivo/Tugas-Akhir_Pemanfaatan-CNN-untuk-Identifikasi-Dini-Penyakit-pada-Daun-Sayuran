@@ -1,0 +1,9 @@
+train: /content/Tugas-Akhir_Pemanfaatan-CNN-untuk-Identifikasi-Dini-Penyakit-pada-Daun-Sayuran/preprocessed_dataset/train
+val: /content/Tugas-Akhir_Pemanfaatan-CNN-untuk-Identifikasi-Dini-Penyakit-pada-Daun-Sayuran/preprocessed_dataset/val
+names:
+- Pepper__bell___Bacterial_spot
+- Pepper__bell___healthy
+- Potato___Early_blight
+- Potato___healthy
+- Tomato_Early_blight
+- Tomato_healthy
